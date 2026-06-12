@@ -18,11 +18,11 @@
   <a href="https://github.com/Obaydawan">
     <img src="https://img.shields.io/badge/GitHub-Obaydawan-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:your.obaydawan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/obaidullah">
-    <img src="https://img.shields.io/badge/LinkedIn-Obaid%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/muhammad-obayd">
+    <img src="https://img.shields.io/badge/LinkedIn-muhammad%20obayd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -250,7 +250,7 @@ Delivering data analytics solutions across business domains including retail, fi
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Obaydawan&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Obaydawan&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
