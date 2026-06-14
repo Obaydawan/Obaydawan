@@ -237,7 +237,7 @@ Delivering data analytics solutions across business domains including retail, fi
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Obaydawan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=9B59B6&icon_color=7B2FBE&text_color=c0c0d0&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Obaydawan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=9B59B6&icon_color=7B2FBE&text_color=c0c0d0&count_private=true&cache_seconds=1800" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Obaydawan&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7B2FBE&fire=9B59B6&currStreakLabel=c0c0d0" />
 </p>
 
@@ -299,7 +299,7 @@ current_focus:
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:your.obaydawan@gmail.com">
+  <a href="mailto:obaydawan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
