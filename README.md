@@ -243,12 +243,22 @@ Delivering data analytics solutions across business domains including retail, fi
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Obaydawan&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7B2FBE&fire=9B59B6&currStreakLabel=c0c0d0" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+## 📊 Data Analytics Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Obaydawan&theme=midnight_purple" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Obaydawan&theme=midnight_purple" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Obaydawan&theme=midnight_purple" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Obaydawan&theme=midnight_purple" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Obaydawan&theme=midnight_purple&utcOffset=5" />
 </p>
 
 ---
