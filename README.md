@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst;Data+Science+Explorer;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Real+Insights;Certified+Data+Professional" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&width=700&lines=Junior+Data+Analyst;ETL+Pipeline+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Real+Insights;Google+%26+DataCamp+Certified;Open+to+EU+Opportunities" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,17 +12,18 @@
   <img src="https://img.shields.io/badge/Role-Junior%20Data%20Analyst-7B2FBE?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Science-6A0DAD?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Pakistan-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-EU%20Opportunities-7B2FBE?style=for-the-badge&logo=europeanunion&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Obaydawan">
     <img src="https://img.shields.io/badge/GitHub-Obaydawan-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.obaydawan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:obaydawan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-obaydawan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/muhammad-obayd">
-    <img src="https://img.shields.io/badge/LinkedIn-muhammad%20obayd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/obayd-awan">
+    <img src="https://img.shields.io/badge/LinkedIn-Obaid%20Ullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -36,28 +37,27 @@
 
 ## 👤 About Me
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=Obaydawan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=9B59B6&icon_color=7B2FBE&text_color=c0c0d0" />
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=Obaydawan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=9B59B6&icon_color=7B2FBE&text_color=c0c0d0&count_private=true&cache_seconds=1800" />
 
-I am a **Junior Data Analyst** with a strong foundation in transforming complex datasets into actionable business intelligence. My work sits at the intersection of **analytical rigor** and **data-driven storytelling** — leveraging Python, SQL, Power BI, and Excel to uncover patterns that drive strategic decisions.
+I am a **Junior Data Analyst** and **BS Software Engineering** student at PAF-IAST, Pakistan. My work sits at the intersection of **analytical rigor** and **data-driven storytelling** — leveraging Python, SQL, Power BI, and Excel to uncover patterns that drive strategic decisions.
 
-I am passionate about the full data lifecycle: from ingestion and transformation to visualization and insight delivery. With a background in **Data Engineering** principles and hands-on experience in analytics workflows, I build solutions that are clean, reproducible, and impactful.
+I am passionate about the full data lifecycle: from ingestion and transformation to visualization and insight delivery. With hands-on experience building **ETL pipelines**, **BI dashboards**, and **SQL analytics**, I deliver solutions that are clean, reproducible, and impactful.
 
 **Currently:**
-- 📊 Building end-to-end analytics pipelines
+- 🔧 Building end-to-end ETL pipelines with Python & SQLite
+- 📊 Designing executive-level dashboards in Power BI
 - 🧠 Deepening expertise in Machine Learning & Predictive Modeling
-- 📈 Designing executive-level dashboards in Power BI
-- 🔍 Exploring advanced SQL optimization and data warehousing concepts
+- 🔍 Exploring advanced SQL optimization and data warehousing
 
 **Open To:**
-- Full-time Data Analyst / Junior Data Scientist roles
+- Junior Data Analyst / Data Science roles globally
+- EU Masters scholarships (DAAD, Erasmus Mundus)
 - Freelance analytics & dashboard projects
-- Open-source data projects & collaborations
+- Open-source data collaborations
 
 ---
 
 ## 🛠️ Tech Stack
-
-## 🛠️ Most Used Technologies 
 
 <p align="center">
   <strong>Languages & Query</strong><br/><br/>
@@ -83,7 +83,7 @@ I am passionate about the full data lifecycle: from ingestion and transformation
   &nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
@@ -111,11 +111,11 @@ I am passionate about the full data lifecycle: from ingestion and transformation
 |:---|:---:|:---|
 | **Data Analysis & Wrangling** | ⭐⭐⭐⭐⭐ | Pandas, NumPy, SQL — cleaning, transforming, and structuring large datasets |
 | **Business Intelligence** | ⭐⭐⭐⭐⭐ | Power BI dashboards, DAX measures, KPI tracking, executive reporting |
+| **ETL Pipeline Development** | ⭐⭐⭐⭐☆ | End-to-end pipelines — web scraping, transformation, CSV & SQLite loading |
 | **SQL & Query Optimization** | ⭐⭐⭐⭐☆ | Complex joins, window functions, CTEs, subqueries, indexing |
 | **Python for Data Science** | ⭐⭐⭐⭐☆ | EDA, statistical analysis, automation, data pipelines |
 | **Data Visualization** | ⭐⭐⭐⭐☆ | Matplotlib, Seaborn, Plotly, Power BI — storytelling through charts |
 | **Machine Learning (Foundations)** | ⭐⭐⭐☆☆ | Regression, classification, model evaluation with Scikit-Learn |
-| **Data Engineering** | ⭐⭐⭐☆☆ | ETL pipelines, data modelling, dbt fundamentals, BigQuery |
 | **Statistical Analysis** | ⭐⭐⭐⭐☆ | Hypothesis testing, A/B testing, descriptive & inferential statistics |
 
 </div>
@@ -125,59 +125,57 @@ I am passionate about the full data lifecycle: from ingestion and transformation
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>📊 Sales Performance Dashboard — Power BI</strong></summary>
+<summary><strong>🏦 ETL Banking Data Pipeline — Python & SQLite</strong></summary>
 <br/>
 
-An end-to-end business intelligence solution designed to provide real-time visibility into sales KPIs, regional performance, and revenue trends across product lines. Built with a focus on executive-level readability and self-service analytics.
+A fully automated end-to-end ETL pipeline that extracts real-world banking market capitalization data from Wikipedia, transforms values across multiple currencies (USD → GBP, EUR, INR), and loads structured output into both CSV and SQLite database — with timestamped logging at every pipeline stage.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Power BI, DAX, SQL Server, Excel |
-| **Scale** | 500K+ rows of transactional data |
-| **Performance** | Sub-2s dashboard load with optimized data model |
-| **Security** | Row-level security (RLS) per regional manager |
-| **Impact** | Reduced manual reporting time by ~70% |
-| **Repository** | [github.com/Obaydawan](https://github.com/Obaydawan) |
+| **Stack** | Python, BeautifulSoup, Pandas, SQLite3, Requests |
+| **Scale** | Top 10 largest global banks by market capitalization |
+| **Performance** | Full pipeline execution with automated logging |
+| **Output** | CSV file + SQLite database + code_log.txt |
+| **Impact** | Demonstrates production-grade data engineering workflow |
+| **Repository** | [ETL-BANKING-DATA-PIPELINE](https://github.com/Obaydawan/ETL-BANKING-DATA-PIPELINE) |
 
-Designed a star-schema data model, authored 30+ DAX measures, and implemented dynamic slicers enabling drill-through analysis by region, product, and time period. Delivered actionable insights that informed quarterly sales strategy.
+Built modular pipeline functions for extract, transform, load, and query stages. Implemented currency conversion using exchange rate mapping and executed SQL analytical queries directly on the loaded database.
 
 </details>
 
 <details>
-<summary><strong>🐍 Python EDA Pipeline — Customer Churn Analysis</strong></summary>
+<summary><strong>📊 Daily SQL Practice — Query Portfolio</strong></summary>
 <br/>
 
-A comprehensive exploratory data analysis and predictive modelling pipeline focused on identifying key drivers of customer churn. Applied end-to-end: data ingestion, cleaning, feature engineering, visualization, and baseline ML model evaluation.
+A growing repository of daily SQL practice queries covering foundational to advanced concepts. Structured as a learning journal with progressive complexity — from basic SELECT statements to window functions, CTEs, and aggregations.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Python, Pandas, Seaborn, Scikit-Learn, Jupyter |
-| **Scale** | 10,000+ customer records |
-| **Performance** | Logistic Regression baseline at 82% accuracy |
-| **Security** | Anonymized PII before analysis |
-| **Impact** | Identified top 5 churn predictors for retention strategy |
-| **Repository** | [github.com/Obaydawan](https://github.com/Obaydawan) |
+| **Stack** | SQL, SQLite, PostgreSQL concepts |
+| **Coverage** | SELECT, WHERE, GROUP BY, ORDER BY, JOINs, Window Functions |
+| **Consistency** | Daily commits maintaining active contribution graph |
+| **Impact** | Demonstrates discipline and progressive SQL mastery |
+| **Repository** | [SQL-Practice](https://github.com/Obaydawan/SQL-Practice) |
 
-Conducted bivariate and multivariate analysis across 20+ features, handled class imbalance with SMOTE, and visualized churn distribution heatmaps. Findings presented as a stakeholder-ready report.
+Each file is named by topic and day for easy navigation. Queries include inline comments explaining the business logic and expected output.
 
 </details>
 
 <details>
-<summary><strong>🗄️ SQL Analytics Project — E-Commerce Database</strong></summary>
+<summary><strong>📈 Data Analytics Learning Journey</strong></summary>
 <br/>
 
-Designed and queried a normalized relational database for an e-commerce use case. Focused on advanced SQL techniques to surface product performance, customer lifetime value, and order fulfillment metrics.
+A comprehensive multi-domain analytics repository documenting daily learning across SQL, Python, Power BI, and Excel. Organized by tool with progressive scripts and analysis files pushed daily.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | PostgreSQL, SQL, Excel |
-| **Scale** | Multi-table schema with 100K+ simulated records |
-| **Performance** | Optimized queries using CTEs & window functions |
-| **Security** | Schema-level access control |
-| **Impact** | Delivered 15+ business-critical analytical queries |
-| **Repository** | [github.com/Obaydawan](https://github.com/Obaydawan) |
+| **Stack** | Python, SQL, Power BI, Excel |
+| **Domains** | Data wrangling, EDA, dashboards, automation |
+| **Consistency** | 50+ commits and growing |
+| **Impact** | Full analytics learning journey documented publicly |
+| **Repository** | [Data-Analytics](https://github.com/Obaydawan/Data-Analytics) |
 
-Built queries for cohort analysis, rolling averages, revenue attribution, and inventory turnover. Documented all queries with business context for team handoff.
+Covers end-to-end analytics workflows from raw data ingestion to final visualization. Each folder represents a tool domain with scripts, queries, and analysis files.
 
 </details>
 
@@ -190,11 +188,11 @@ Built queries for cohort analysis, rolling averages, revenue attribution, and in
 
 Delivering data analytics solutions across business domains including retail, finance, and operations. Focused on transforming raw data into structured insight pipelines and stakeholder-ready visualizations.
 
-- Designed interactive Power BI dashboards tracking KPIs for SME clients
-- Automated recurring Excel reports using Python, saving 5+ hours/week
-- Wrote complex SQL queries for business performance reporting
-- Conducted EDA on customer datasets to surface segmentation insights
-- Managed end-to-end project delivery from data collection to final presentation
+- Built an end-to-end ETL pipeline extracting Wikipedia banking data into SQLite with multi-currency transformation
+- Designed interactive Power BI dashboards tracking KPIs for business reporting
+- Automated recurring Excel reports using Python, saving significant manual effort
+- Wrote complex SQL queries for business performance and segmentation analysis
+- Conducted EDA on real-world datasets to surface actionable insights
 
 <p>
   <img src="https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white" />
@@ -202,6 +200,7 @@ Delivering data analytics solutions across business domains including retail, fi
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
 ---
@@ -212,11 +211,11 @@ Delivering data analytics solutions across business domains including retail, fi
 
 | 🎖️ Recognition | 📋 Details |
 |:---|:---|
-| **Google Data Analytics Certificate** | Completed professional certificate covering the full analytics workflow |
-| **DataCamp Data Engineer Associate** | Certified in data engineering principles, pipelines & SQL |
-| **End-to-End BI Dashboard Delivery** | Built production-grade Power BI dashboards for real business use cases |
-| **Python Automation** | Automated reporting workflows reducing manual effort by 70%+ |
-| **Open Source Contributor** | Active on GitHub with public analytics projects |
+| **Google Data Analytics Certificate** | Professional certificate covering the full analytics workflow — Ask, Prepare, Process, Analyze, Share, Act |
+| **DataCamp Data Engineer Associate** | Certified in data engineering principles, ETL pipelines, SQL & Python workflows |
+| **ETL Pipeline — Production Grade** | Built real-world banking data pipeline with web scraping, transformation & SQLite loading |
+| **Daily GitHub Contributor** | Maintaining consistent daily commits across SQL, Python & analytics projects |
+| **Multi-domain Analytics Portfolio** | Public GitHub portfolio covering SQL, Python, Power BI and Excel |
 
 </div>
 
@@ -227,10 +226,14 @@ Delivering data analytics solutions across business domains including retail, fi
 <div align="center">
 
 ### Google
-<img src="https://img.shields.io/badge/Google%20Data%20Analytics%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<a href="#">
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
 
 ### DataCamp
-<img src="https://img.shields.io/badge/Data%20Engineer%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" />
+<a href="#">
+  <img src="https://img.shields.io/badge/Data%20Engineer%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" />
+</a>
 
 </div>
 
@@ -243,16 +246,12 @@ Delivering data analytics solutions across business domains including retail, fi
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Obaydawan&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7B2FBE&fire=9B59B6&currStreakLabel=c0c0d0" />
 </p>
 
-## 📊 Data Analytics Metrics
+---
+
+## 📈 Data Analytics Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Obaydawan&theme=midnight_purple" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Obaydawan&theme=midnight_purple" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Obaydawan&theme=midnight_purple" />
 </p>
 
 <p align="center">
@@ -263,8 +262,15 @@ Delivering data analytics solutions across business domains including retail, fi
 
 ---
 
+## 🏅 GitHub Trophies
 
-## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Obaydawan&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+---
+
+## 📉 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Obaydawan&theme=react-dark&bg_color=0d0d1a&color=9B59B6&line=7B2FBE&point=ffffff&hide_border=true" />
@@ -297,7 +303,8 @@ current_focus:
     - NLP for text analytics and sentiment analysis
     - Statistical A/B testing frameworks
   open_to:
-    - Junior Data Analyst positions (full-time or contract)
+    - Junior Data Analyst positions — full-time or contract
+    - EU Masters Scholarships — DAAD, Erasmus Mundus, Stipendium Hungaricum
     - Data Science internships
     - Freelance dashboard & analytics projects
     - Open-source data collaboration
@@ -312,7 +319,7 @@ current_focus:
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/muhammad-obayd">
+  <a href="https://www.linkedin.com/in/obayd-awan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
