@@ -57,6 +57,8 @@ I am passionate about the full data lifecycle: from ingestion and transformation
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Most Used Technologies 
+
 <p align="center">
   <strong>Languages & Query</strong><br/><br/>
   <img src="https://skillicons.dev/icons?i=python,r&theme=dark" />
@@ -239,10 +241,6 @@ Delivering data analytics solutions across business domains including retail, fi
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Obaydawan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=9B59B6&icon_color=7B2FBE&text_color=c0c0d0&count_private=true&cache_seconds=1800" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Obaydawan&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7B2FBE&fire=9B59B6&currStreakLabel=c0c0d0" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obaydawan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=9B59B6&text_color=c0c0d0&langs_count=8" />
 </p>
 
 ---
