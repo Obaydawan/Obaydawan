@@ -263,13 +263,6 @@ Delivering data analytics solutions across business domains including retail, fi
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Obaydawan&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
----
 
 ## 📈 Contribution Activity
 
