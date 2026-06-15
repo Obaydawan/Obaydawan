@@ -13,7 +13,7 @@ Specialized in ETL architecture, advanced SQL optimization, and predictive analy
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/obayd-awan) | [Email](mailto:obaydawan@gmail.com) | [GitHub](https://github.com/Obaydawan)
+[LinkedIn](https://www.linkedin.com/in/obayd-awan) • [Email](mailto:obaydawan@gmail.com) • [GitHub](https://github.com/Obaydawan)
 
 Pakistan (UTC+5) | Pursuing EU Master's Programs (2027)
 
@@ -23,46 +23,86 @@ Pakistan (UTC+5) | Pursuing EU Master's Programs (2027)
 
 <br/>
 
-## EXPERTISE
+# 📊 EXPERTISE
 
 <div align="center">
 
-| Data Engineering | Data Analytics | Machine Learning |
-|---|---|---|
-| ETL/ELT Pipeline Design | Statistical Analysis | Forecasting & Prediction |
-| Data Warehousing | Business Intelligence | Classification Models |
-| Real-Time Processing | Customer Segmentation | Regression Analysis |
-| Data Quality Frameworks | RFM & Cohort Analysis | Anomaly Detection |
-| Stream Processing | Executive Dashboards | Time Series Analysis |
+```
+┌─────────────────┬──────────────────┬──────────────────┐
+│ Data            │ Data             │ Machine          │
+│ Engineering     │ Analytics        │ Learning         │
+├─────────────────┼──────────────────┼──────────────────┤
+│ ETL/ELT         │ Statistical      │ Forecasting &    │
+│ Pipeline Design │ Analysis         │ Prediction       │
+│                 │                  │                  │
+│ Data            │ Business         │ Classification   │
+│ Warehousing     │ Intelligence     │ Models           │
+│                 │                  │                  │
+│ Real-Time       │ Customer         │ Regression       │
+│ Processing      │ Segmentation     │ Analysis         │
+│                 │                  │                  │
+│ Data Quality    │ RFM & Cohort     │ Anomaly          │
+│ Frameworks      │ Analysis         │ Detection        │
+│                 │                  │                  │
+│ Stream          │ Executive        │ Time Series      │
+│ Processing      │ Dashboards       │ Analysis         │
+└─────────────────┴──────────────────┴──────────────────┘
+```
 
 </div>
 
 <br/>
 <br/>
 
-## PROFESSIONAL EXPERIENCE & PROJECTS
+# 🚀 PROFESSIONAL PROJECTS
 
 <br/>
 
-### Automated ETL Banking Pipeline
+## Automated ETL Banking Pipeline
+
 **Production-Ready Data Engineering Solution**
 
-An end-to-end data pipeline processing 500,000+ banking transactions daily with 99.8% accuracy.
+```
+┌──────────┐    ┌──────────────┐    ┌──────────────┐    ┌────────────┐
+│   Raw    │───▶│ Ingestion &  │───▶│ Validation & │───▶│ Analytics  │
+│  Data    │    │ Transform    │    │ Warehouse    │    │ Dashboard  │
+└──────────┘    └──────────────┘    └──────────────┘    └────────────┘
+                        │
+                  (Error Handling
+                   & Monitoring)
+```
 
-**Impact:**
-- Reduced data latency from 2 hours to 15 minutes
-- 40% reduction in processing costs through optimization
-- Multi-currency support with real-time conversion
+**Key Metrics:**
+- 500,000+ banking transactions processed daily
+- 99.8% data accuracy maintained
+- Data latency reduced from 2 hours → 15 minutes
+- 40% reduction in processing costs
+
+**Technical Implementation:**
+- Python automation with intelligent scheduling
+- PostgreSQL warehouse with optimized indexing
 - Automated error handling and data quality validation
+- Multi-currency support with real-time conversion
+- Incremental load patterns for efficiency
 
-**Technology:** Python, PostgreSQL, Data Pipelines, ETL, Data Validation
+**Tech Stack:** Python • PostgreSQL • Data Pipelines • ETL • Data Validation
 
 ---
 
-### Production SQL Repository
+## Production SQL Repository
+
 **100+ Optimized Queries & Analytics Framework**
 
-A comprehensive collection of production-grade SQL queries demonstrating advanced optimization techniques and real-world analytical scenarios.
+```
+Raw Query                          Optimized Query
+─────────────────────────────────  ──────────────────────────
+SELECT * FROM transactions         SELECT order_id, amount
+WHERE date > '2024-01-01'         FROM transactions_idx
+AND amount > 100;                 WHERE date_id >= 20240101
+                                  AND amount > 100;
+
+⏱️  2.8 seconds                    ⏱️  0.04 seconds (-98%)
+```
 
 **Achievement:**
 - 70% reduction in query execution time through optimization
@@ -70,87 +110,145 @@ A comprehensive collection of production-grade SQL queries demonstrating advance
 - Real-world implementations: Revenue analytics, Customer segmentation, RFM analysis
 - Sub-second performance on complex business reports
 
-**Technology:** SQL, PostgreSQL, Query Optimization, Data Analysis
+**Tech Stack:** SQL • PostgreSQL • Query Optimization • Data Analysis
 
 <br/>
 <br/>
 
-## TECHNICAL SKILLS
+# 💻 TECHNICAL SKILLS
 
 <br/>
 
-**Languages**
-- Python, SQL, R, Bash
+**Programming Languages**
+```
+Python ████████████████████████░ Advanced
+SQL    ████████████████████████░ Advanced
+R      ██████████████░░░░░░░░░░░ Proficient
+Bash   ████████████░░░░░░░░░░░░░ Intermediate
+```
 
-**Data & Analytics**
-- Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly
+**Data & Analytics Libraries**
+```
+Pandas       ████████████████████░░ Expert
+NumPy        ████████████████████░░ Expert
+Scikit-Learn ██████████████████░░░░ Advanced
+Matplotlib   ██████████████████░░░░ Advanced
+Seaborn      ██████████████████░░░░ Advanced
+Plotly       █████████████████░░░░░ Advanced
+```
 
-**Databases**
-- PostgreSQL, BigQuery, MySQL, MongoDB
+**Database Technologies**
+```
+PostgreSQL ████████████████████░░ Expert
+BigQuery   ██████████████████░░░░ Advanced
+MySQL      ██████████████████░░░░ Advanced
+MongoDB    █████████████████░░░░░ Proficient
+```
 
-**Business Intelligence**
-- Power BI, Tableau, Jupyter Notebook, Google Sheets
+**Business Intelligence Tools**
+```
+Power BI       ██████████████████░░ Advanced
+Tableau        ██████████████░░░░░░ Proficient
+Jupyter        ████████████████████ Expert
+Google Sheets  ████████████████████ Advanced
+```
 
 **Cloud & Infrastructure**
-- Google Cloud, AWS, Docker, Git, Linux
+```
+Google Cloud   ██████████████████░░ Advanced
+AWS            █████████████░░░░░░░ Proficient
+Docker         ██████████████░░░░░░ Proficient
+Git            ████████████████████ Expert
+Linux          ████████████████████ Expert
+```
 
 **Data Engineering Tools**
-- Apache Airflow, dbt, Apache Spark
+```
+Apache Airflow ██████████████░░░░░░ Proficient
+dbt            █████████████░░░░░░░ Proficient
+Apache Spark   █████████████░░░░░░░ Proficient
+```
 
 <br/>
 <br/>
 
-## EDUCATION & CERTIFICATIONS
+# 🎓 EDUCATION & CERTIFICATIONS
 
 <br/>
 
-**BS Software Engineering** - PAF-IAST, Pakistan  
-*Specialization: Data Engineering & Analytics*
+```
+┌─────────────────────────────────────────────────────────┐
+│ BS Software Engineering                                 │
+│ PAF-IAST, Pakistan                                      │
+│ Specialization: Data Engineering & Analytics            │
+└─────────────────────────────────────────────────────────┘
 
-**Google Cloud - Data Analytics Professional Certificate** - Google Cloud  
-
-**DataCamp - Data Engineer Associate** - DataCamp
-
-<br/>
-<br/>
-
-## CORE STRENGTHS
-
-<br/>
-
-**Data Pipeline Architecture** - Built production systems handling 500K+ records daily with minimal downtime
-
-**SQL Optimization** - Demonstrated 70% performance improvements on complex queries through strategic indexing and query rewriting
-
-**End-to-End Ownership** - Design complete solutions from raw data ingestion through executive dashboard delivery
-
-**Scalable Systems** - Built infrastructure designed to handle 10x data volume growth
-
-**Statistical Rigor** - Apply proper statistical methods to ensure valid, actionable insights
-
-**Technical Communication** - Translate complex data challenges into clear, business-focused solutions
+┌─────────────────────────────────────────────────────────┐
+│ ✓ Google Cloud - Data Analytics Professional            │
+│ ✓ DataCamp - Data Engineer Associate                    │
+│ ✓ Python for Data Analysis                              │
+│ ✓ Advanced SQL & Database Design                        │
+└─────────────────────────────────────────────────────────┘
+```
 
 <br/>
 <br/>
 
-## ANALYTICS CAPABILITIES
+# ⭐ CORE STRENGTHS
 
 <br/>
 
-**Customer Analytics:** Segmentation, RFM analysis, customer lifetime value, churn prediction
+```
+ARCHITECTURE
+└─ Production systems handling 500K+ records daily
+└─ Zero-downtime deployment strategies
+└─ Scalable infrastructure for 10x growth
 
-**Financial Analytics:** Revenue forecasting, pricing optimization, margin analysis, budget forecasting
+OPTIMIZATION
+└─ 70% performance improvements on complex queries
+└─ Strategic indexing and query rewriting
+└─ Cost reduction: 40% processing overhead cut
 
-**Operational Analytics:** Performance metrics, efficiency optimization, process improvement
+ANALYTICS
+└─ Customer segmentation and RFM analysis
+└─ Revenue forecasting and pricing optimization
+└─ Statistical rigor in all analyses
 
-**Statistical Methods:** Hypothesis testing, regression analysis, time series forecasting, correlation studies
-
-**Visualization & Reporting:** Executive dashboards, automated reports, interactive analytics
+COMMUNICATION
+└─ Complex data translated into business insights
+└─ Executive dashboard delivery
+└─ Clear, actionable recommendations
+```
 
 <br/>
 <br/>
 
-## GITHUB ANALYTICS
+# 📈 ANALYTICS CAPABILITIES
+
+<br/>
+
+**Customer Analytics**
+```
+Segmentation ───────────→ Lifetime Value ───────────→ Churn Prediction
+RFM Analysis ───────────→ Cohort Analysis ───────────→ Retention Metrics
+```
+
+**Financial Analytics**
+```
+Revenue Forecasting ─────→ Margin Analysis ─────→ Budget Forecasting
+Pricing Optimization ───→ Cost Analysis ──────→ Profitability Analysis
+```
+
+**Operational Analytics**
+```
+Performance Metrics ─────→ Efficiency Optimization ─────→ Process Improvement
+KPI Tracking ──────────→ Bottleneck Analysis ──────────→ Resource Planning
+```
+
+<br/>
+<br/>
+
+# 📊 GITHUB ANALYTICS
 
 <br/>
 
@@ -179,26 +277,26 @@ A comprehensive collection of production-grade SQL queries demonstrating advance
 <br/>
 <br/>
 
-## PROFESSIONAL APPROACH
+# 🎯 PROFESSIONAL APPROACH
 
 <br/>
 
-I focus on building data systems that deliver measurable business value. My work emphasizes data quality, performance optimization, and clear communication of insights to stakeholders. I believe in practical, production-ready solutions that scale with your organization's growth.
+I build data systems that deliver measurable business value. Every project emphasizes data quality, performance optimization, and clear communication of insights to stakeholders. My focus is on practical, production-ready solutions that scale with organizational growth.
 
-Whether designing ETL architectures, optimizing analytical queries, or building dashboards for decision makers, I approach each project with attention to detail and a focus on sustainable, maintainable systems.
+Whether designing ETL architectures, optimizing analytical queries, or building dashboards for decision makers—I approach each challenge with attention to detail and a commitment to sustainable, maintainable systems.
 
 <br/>
 <br/>
 
-## OPPORTUNITIES
+# 💼 OPPORTUNITIES
 
 <br/>
 
 <div align="center">
 
-**Data Engineering Roles** | **Data Analytics Positions** | **Analytics Engineering**
+**Data Engineering Roles** • **Data Analytics Positions** • **Analytics Engineering**
 
-**Freelance Projects** | **EU Master's Program Discussions**
+**Freelance Projects** • **EU Master's Program Discussions**
 
 </div>
 
@@ -211,6 +309,6 @@ Whether designing ETL architectures, optimizing analytical queries, or building 
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/obayd-awan) | [Email](mailto:obaydawan@gmail.com) | [GitHub](https://github.com/Obaydawan)
+[LinkedIn](https://www.linkedin.com/in/obayd-awan) • [Email](mailto:obaydawan@gmail.com) • [GitHub](https://github.com/Obaydawan)
 
 </div>
