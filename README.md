@@ -13,7 +13,7 @@ Specialized in ETL architecture, advanced SQL optimization, and predictive analy
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/obayd-awan) • [Email](mailto:obaydawan@gmail.com) • [GitHub](https://github.com/Obaydawan)
+[LinkedIn](https://www.linkedin.com/in/muhammad-obayd) • [Email](mailto:obaydawan@gmail.com) • [GitHub](https://github.com/Obaydawan)
 
 Pakistan (UTC+5) | Pursuing EU Master's Programs (2027)
 
