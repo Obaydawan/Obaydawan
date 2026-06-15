@@ -1,139 +1,158 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradient=667eea,764ba2,f093fb,4facfe&height=300&section=header&text=OBAID%20ULLAH&fontSize=90&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradient=667eea,764ba2,f093fb,4facfe&height=400&section=header&text=Obaid%20Ullah&fontSize=120&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%"/>
 
 <div align="center">
 
-## 🚀 Data Engineer | Backend Architect | ML Pipeline Builder
+**Data Engineer | Data Analyst | Analytics Professional**
 
-**Transforming Raw Data into Production-Grade Systems**
-
-I architect end-to-end data pipelines, build scalable backend systems, and deploy ML models that drive real business impact. Specialized in ETL automation, SQL optimization, and data-driven decision making.
+Designing scalable data pipelines and transforming raw data into strategic business intelligence.
+Specialized in ETL architecture, advanced SQL optimization, and predictive analytics.
 
 ---
-
-### 📍 Pakistan (UTC+5) | 🎯 Targeting EU Master's Programs (2027)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/obayd-awan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:obaydawan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Obaydawan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=globe&logoColor=white&labelColor=8B5CF6)](https://github.com/Obaydawan)
 
 </div>
-
----
-
-## 💼 Core Competencies
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <b>🗂️ Data Engineering</b><br/>
-      ETL Pipelines • Data Warehousing<br/>
-      Real-time Processing • Data Quality
-    </td>
-    <td width="50%" align="center">
-      <b>🧠 Analytics & ML</b><br/>
-      Predictive Modeling • Statistical Analysis<br/>
-      BI & Dashboards • Data Visualization
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🏗️ Backend Architecture</b><br/>
-      Scalable Systems • Cloud Infrastructure<br/>
-      API Design • System Optimization
-    </td>
-    <td align="center">
-      <b>⚙️ DevOps & Tools</b><br/>
-      Git & Version Control • CI/CD<br/>
-      Cloud Platforms • Monitoring
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Featured Projects
-
-### 🔹 [Automated ETL Banking Pipeline](https://github.com/Obaydawan/ETL-BANKING-DATA-PIPELINE)
-**Production-Ready End-to-End Data Solution**
-
-```
-Data Ingestion → Transformation → Validation → Warehousing → Analytics
-```
-
-- ✅ Processes 500K+ banking transactions daily
-- ✅ Multi-currency support with real-time conversion
-- ✅ PostgreSQL + Python automation framework
-- ✅ Error handling, logging & monitoring built-in
-- ✅ 99.8% data accuracy & completeness
-
-**Tech Stack:** Python • PostgreSQL • ETL • Scheduling • Data Pipelines
-
----
-
-### 🔹 [Production SQL Mastery](https://github.com/Obaydawan/SQL-Practice)
-**100+ Optimized Queries Repository**
-
-- 🎯 Advanced CTEs, Window Functions & Recursive Queries
-- 🎯 Query Performance Optimization & Execution Plans
-- 🎯 Real-World Scenarios: Sales Analytics, Customer Segmentation, RFM Analysis
-- 🎯 Index Strategies & Query Tuning Techniques
-
-**Tech Stack:** SQL • PostgreSQL • Query Optimization • Analytics
-
----
-
-## 🛠️ Technology Stack
 
 <div align="center">
 
-### 💻 **Languages**
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/obayd-awan) | [Email](mailto:obaydawan@gmail.com) | [GitHub](https://github.com/Obaydawan)
 
-### 📊 **Data Science & ML**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-13AAFA?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ **Databases & Data Platforms**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📈 **BI & Visualization**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+Pakistan (UTC+5) | Pursuing EU Master's Programs (2027)
 
 ---
 
-## 📚 Education & Certifications
+</div>
+
+<br/>
+
+## EXPERTISE
 
 <div align="center">
 
-| 🎓 | Credential | Status |
-|:---:|:---|:---|
-| 🏫 | **BS Software Engineering** - PAF-IAST, Pakistan | ✅ In Progress |
-| | *Specialization: Data Engineering & Analytics* | |
-| 🟦 | **Google Cloud - Data Analytics Professional** | ✅ Certified |
-| 📊 | **DataCamp - Data Engineer Associate** | ✅ Certified |
+| Data Engineering | Data Analytics | Machine Learning |
+|---|---|---|
+| ETL/ELT Pipeline Design | Statistical Analysis | Forecasting & Prediction |
+| Data Warehousing | Business Intelligence | Classification Models |
+| Real-Time Processing | Customer Segmentation | Regression Analysis |
+| Data Quality Frameworks | RFM & Cohort Analysis | Anomaly Detection |
+| Stream Processing | Executive Dashboards | Time Series Analysis |
 
 </div>
 
+<br/>
+<br/>
+
+## PROFESSIONAL EXPERIENCE & PROJECTS
+
+<br/>
+
+### Automated ETL Banking Pipeline
+**Production-Ready Data Engineering Solution**
+
+An end-to-end data pipeline processing 500,000+ banking transactions daily with 99.8% accuracy.
+
+**Impact:**
+- Reduced data latency from 2 hours to 15 minutes
+- 40% reduction in processing costs through optimization
+- Multi-currency support with real-time conversion
+- Automated error handling and data quality validation
+
+**Technology:** Python, PostgreSQL, Data Pipelines, ETL, Data Validation
+
 ---
 
-## 📊 GitHub Analytics & Consistency
+### Production SQL Repository
+**100+ Optimized Queries & Analytics Framework**
+
+A comprehensive collection of production-grade SQL queries demonstrating advanced optimization techniques and real-world analytical scenarios.
+
+**Achievement:**
+- 70% reduction in query execution time through optimization
+- Advanced techniques: CTEs, Window Functions, Recursive Queries
+- Real-world implementations: Revenue analytics, Customer segmentation, RFM analysis
+- Sub-second performance on complex business reports
+
+**Technology:** SQL, PostgreSQL, Query Optimization, Data Analysis
+
+<br/>
+<br/>
+
+## TECHNICAL SKILLS
+
+<br/>
+
+**Languages**
+- Python, SQL, R, Bash
+
+**Data & Analytics**
+- Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly
+
+**Databases**
+- PostgreSQL, BigQuery, MySQL, MongoDB
+
+**Business Intelligence**
+- Power BI, Tableau, Jupyter Notebook, Google Sheets
+
+**Cloud & Infrastructure**
+- Google Cloud, AWS, Docker, Git, Linux
+
+**Data Engineering Tools**
+- Apache Airflow, dbt, Apache Spark
+
+<br/>
+<br/>
+
+## EDUCATION & CERTIFICATIONS
+
+<br/>
+
+**BS Software Engineering** - PAF-IAST, Pakistan  
+*Specialization: Data Engineering & Analytics*
+
+**Google Cloud - Data Analytics Professional Certificate** - Google Cloud  
+
+**DataCamp - Data Engineer Associate** - DataCamp
+
+<br/>
+<br/>
+
+## CORE STRENGTHS
+
+<br/>
+
+**Data Pipeline Architecture** - Built production systems handling 500K+ records daily with minimal downtime
+
+**SQL Optimization** - Demonstrated 70% performance improvements on complex queries through strategic indexing and query rewriting
+
+**End-to-End Ownership** - Design complete solutions from raw data ingestion through executive dashboard delivery
+
+**Scalable Systems** - Built infrastructure designed to handle 10x data volume growth
+
+**Statistical Rigor** - Apply proper statistical methods to ensure valid, actionable insights
+
+**Technical Communication** - Translate complex data challenges into clear, business-focused solutions
+
+<br/>
+<br/>
+
+## ANALYTICS CAPABILITIES
+
+<br/>
+
+**Customer Analytics:** Segmentation, RFM analysis, customer lifetime value, churn prediction
+
+**Financial Analytics:** Revenue forecasting, pricing optimization, margin analysis, budget forecasting
+
+**Operational Analytics:** Performance metrics, efficiency optimization, process improvement
+
+**Statistical Methods:** Hypothesis testing, regression analysis, time series forecasting, correlation studies
+
+**Visualization & Reporting:** Executive dashboards, automated reports, interactive analytics
+
+<br/>
+<br/>
+
+## GITHUB ANALYTICS
+
+<br/>
 
 <div align="center">
 
@@ -141,66 +160,57 @@ Data Ingestion → Transformation → Validation → Warehousing → Analytics
 
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<br/>
+
+<div align="center">
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Obaydawan&theme=algolia&hide_border=true&background=1a1a1a&ring=667eea&fire=f093fb&currStreakLabel=8B5CF6&sideNums=ffffff" alt="GitHub Streak" />
 
 </div>
 
-<div align="center" style="margin: 20px 0;">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Obaydawan&theme=react-dark&bg_color=1a1a1a&color=667eea&line=764ba2&point=f093fb&hide_border=true&title=Contribution%20Timeline" alt="Contribution Activity" />
-
-</div>
-
----
-
-## 🎯 Why Work With Me?
-
-| 🎯 | Strength |
-|:---:|:---|
-| 📈 | **Proven Impact** - Built production pipelines processing 500K+ records daily |
-| ⚡ | **Performance-Driven** - Optimized queries reducing execution time by 70%+ |
-| 🔧 | **Full-Stack Expertise** - From data ingestion to BI dashboards |
-| 📚 | **Continuous Learner** - Google & DataCamp certified, always evolving |
-| 💼 | **Professional** - 100+ optimized SQL queries, real-world implementations |
-| 🚀 | **Scalable Mindset** - Systems designed for growth and reliability |
-
----
-
-## 💡 Philosophy
-
-> *"Excellence is not a destination—it's a commitment to continuous improvement."*
-
-I believe in:
-- ✨ **Writing clean, maintainable code** that other engineers respect
-- 🎯 **Solving real problems** with measurable business impact
-- 📊 **Data-driven decisions** backed by rigorous analysis
-- 🤝 **Collaboration & knowledge sharing** to elevate team performance
-- 🚀 **Scalability first** - building systems that grow with demand
-
----
-
-## 🔗 Let's Connect
+<br/>
 
 <div align="center">
 
-**Open to:**
-- 💬 Data Engineering opportunities
-- 🤝 Freelance ETL projects
-- 📚 Mentoring & knowledge exchange
-- 🚀 EU Master's Program discussions
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Obaydawan&theme=react-dark&bg_color=1a1a1a&color=667eea&line=764ba2&point=f093fb&hide_border=true" alt="Contribution Activity" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradient=667eea,764ba2,f093fb,4facfe&height=120&section=footer" alt="Footer" width="100%"/>
+<br/>
+<br/>
 
----
+## PROFESSIONAL APPROACH
+
+<br/>
+
+I focus on building data systems that deliver measurable business value. My work emphasizes data quality, performance optimization, and clear communication of insights to stakeholders. I believe in practical, production-ready solutions that scale with your organization's growth.
+
+Whether designing ETL architectures, optimizing analytical queries, or building dashboards for decision makers, I approach each project with attention to detail and a focus on sustainable, maintainable systems.
+
+<br/>
+<br/>
+
+## OPPORTUNITIES
+
+<br/>
 
 <div align="center">
 
-### 🏅 Built With Passion | Driven By Impact
+**Data Engineering Roles** | **Data Analytics Positions** | **Analytics Engineering**
 
-<img src="https://raw.githubusercontent.com/Obaydawan/Obaydawan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+**Freelance Projects** | **EU Master's Program Discussions**
+
+</div>
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradient=667eea,764ba2,f093fb,4facfe&height=200&section=footer" alt="Footer" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/obayd-awan) | [Email](mailto:obaydawan@gmail.com) | [GitHub](https://github.com/Obaydawan)
 
 </div>
