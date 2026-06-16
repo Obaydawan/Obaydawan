@@ -6,73 +6,71 @@
 
 <div align="center">
 
-## 📊 **Data Systems Architect**
+## 📊 **Data Analyst**
 
-Designing ETL pipelines that process 500K+ records daily  
-Optimizing SQL by 70% • Building analytics that drive decisions
+Transforming data into insights that drive business decisions  
+Building dashboards that tell stories • Analyzing patterns that matter
 
 </div>
 
 ---
 
-## ⚡ **WHAT'S SHIPPING**
+## ⚡ **WHAT I DELIVER**
 
 <p align="center">
 
 ```
-ETL PIPELINE          │    100+ SQL QUERIES    │    ANALYTICS SUITE
-    ✅ LIVE          │         ✅ OPTIMIZED    │        ✅ PRODUCTION
-  500K+/day          │      70% Faster        │     Real Business Impact
+100+ SQL QUERIES    │    5 POWER BI DASHBOARDS    │    ANALYTICS INSIGHTS
+    ✅ ANALYSIS     │          ✅ LIVE             │       ✅ ACTIONABLE
+  Business Ready    │       Executive Ready        │    Customer Focused
 ```
 
 </p>
 
 ---
 
-## 🎯 **CORE CAPABILITIES**
+## 🎯 **ANALYTICS EXPERTISE**
 
 <p align="center">
 
-| Build | Optimize | Analyze |
+| Customer Analytics | Financial Analytics | Operational Analytics |
 |:---:|:---:|:---:|
-| **ETL Systems** | **Query Performance** | **Customer Segments** |
-| Data Pipelines | 70% Speed Increase | RFM Analysis |
-| Real-Time Processing | Strategic Indexing | Revenue Forecasting |
-| **Data Warehouses** | **SQL Mastery** | **BI Dashboards** |
-| PostgreSQL Architecture | Window Functions | Executive Reports |
-| Zero-Downtime Deploys | CTEs & Optimization | Actionable Insights |
+| **Segmentation** | **Revenue Forecasting** | **KPI Tracking** |
+| RFM Analysis | Margin Analysis | Performance Metrics |
+| Churn Prediction | Pricing Optimization | Efficiency Analysis |
+| **Lifetime Value** | **Budget Forecasting** | **Process Improvement** |
+| Cohort Analysis | Cost Analysis | Bottleneck Identification |
+| Retention Metrics | Profitability Analysis | Resource Planning |
 
 </p>
 
 ---
 
-## 💻 **TECHNICAL DEPTH**
+## 💻 **TECHNICAL FOUNDATION**
 
 <div align="center">
 
-**CORE LANGUAGES**
+**LANGUAGES FOR ANALYSIS**
 
 ```
-Python          SQL            R
-████████████████████  Advanced
+SQL            Python          Excel
 ████████████████████  Expert
-██████████████░░░░░░  Proficient
+████████████████████  Advanced
+████████████░░░░░░░  Advanced
+```
+
+**VISUALIZATION & BI**
+
+```
+Power BI • Tableau • Matplotlib
+Seaborn • Plotly • Google Sheets
 ```
 
 **DATA TOOLS**
 
 ```
 Pandas • NumPy • Scikit-Learn
-Matplotlib • Seaborn • Plotly
-PostgreSQL • BigQuery • Spark
-```
-
-**BI & INFRASTRUCTURE**
-
-```
-Power BI • Tableau • Jupyter
-Airflow • dbt • Docker • Git
-Google Cloud • AWS • Linux
+PostgreSQL • BigQuery • Jupyter
 ```
 
 </div>
@@ -95,34 +93,36 @@ Google Cloud • AWS • Linux
 
 ---
 
-## 🔥 **FEATURED WORK**
+## 🔥 **FEATURED ANALYSIS**
 
-### **#1 — PRODUCTION ETL SYSTEM**
+### **#1 — CUSTOMER SEGMENTATION & RFM**
 
-**What:** Automated banking data pipeline processing 500K+ daily records  
-**Result:** 40% cost reduction • 99.8% accuracy • 2 hour → 15 min latency  
-**Stack:** Python • PostgreSQL • Data Validation • Multi-Currency  
+**What:** Segmented customer base into actionable groups  
+**Result:** Identified high-value customers • Churn risk analysis  
+**Impact:** Enables targeted marketing strategies  
+**Stack:** SQL • Python • Statistical Analysis  
 
-→ [View Repository](https://github.com/Obaydawan/ETL-BANKING-DATA-PIPELINE)
+→ [View Analysis](https://github.com/Obaydawan/Data-Analytics)
 
 ---
 
-### **#2 — SQL MASTERY REPOSITORY**
+### **#2 — ADVANCED SQL ANALYTICS**
 
-**What:** 100+ optimized queries with real-world implementations  
-**Result:** 70% performance improvement • Sub-second execution  
-**Includes:** CTEs • Window Functions • Recursive Queries • Index Strategy  
+**What:** 100+ queries covering business scenarios  
+**Result:** Sub-second query performance on complex analysis  
+**Includes:** Cohort Analysis • RFM • Revenue Trends • Customer Behavior  
 
 → [View Repository](https://github.com/Obaydawan/SQL-Practice)
 
 ---
 
-### **#3 — ANALYTICS FOUNDATION**
+### **#3 — EXECUTIVE DASHBOARDS**
 
-**What:** Customer segmentation • RFM analysis • Revenue forecasting  
-**Stack:** Python • SQL • Power BI • Statistical Analysis  
+**What:** 5 Power BI dashboards tracking KPIs  
+**Result:** Real-time visibility into business metrics  
+**Used By:** Executive teams for decision-making  
 
-→ [View Repository](https://github.com/Obaydawan/Data-Analytics)
+→ [View Projects](https://github.com/Obaydawan/Data-Analytics)
 
 ---
 
@@ -132,41 +132,65 @@ Google Cloud • AWS • Linux
 
 ```
 BS Software Engineering — PAF-IAST, Pakistan
-Data Engineering & Analytics Specialization
+Data Analytics & Analytics Engineering Focus
 
-✓ Google Cloud - Data Analytics Professional
-✓ DataCamp - Data Engineer Associate
-✓ Advanced SQL & Database Design
-✓ Python for Data Analysis
+✓ Google Data Analytics Professional Certificate
+✓ DataCamp Data Engineer Associate
+✓ Advanced SQL for Analytics
+✓ Statistical Analysis & A/B Testing
 ```
 
 </div>
 
 ---
 
-## 🌟 **WHAT THIS MEANS**
+## 🌟 **WHAT MAKES ME DIFFERENT**
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────┐
-│                                              │
-│  NOT THEORY-BASED                            │
-│  → Production systems handling real volume   │
-│                                              │
-│  NOT TUTORIAL CODE                           │
-│  → Optimization at professional scale        │
-│                                              │
-│  NOT JUST SKILLS                             │
-│  → Proven impact (70% faster, 40% cheaper)   │
-│                                              │
-│  NOT HOBBY PROJECTS                          │
-│  → Enterprise-grade architecture             │
-│                                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│                                          │
+│  NOT JUST DATA                           │
+│  → Data with business context            │
+│                                          │
+│  NOT JUST NUMBERS                        │
+│  → Stories that drive decisions          │
+│                                          │
+│  NOT JUST DASHBOARDS                     │
+│  → Dashboards tied to outcomes           │
+│                                          │
+│  NOT JUST QUERIES                        │
+│  → Queries that answer real questions    │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 </div>
+
+---
+
+## 💡 **HOW I WORK**
+
+<p align="center">
+
+```
+Ask Questions
+    ↓
+Explore Data
+    ↓
+Find Patterns
+    ↓
+Build Analysis
+    ↓
+Create Visualization
+    ↓
+Tell Story
+    ↓
+Drive Decisions
+```
+
+</p>
 
 ---
 
@@ -180,7 +204,7 @@ Data Engineering & Analytics Specialization
 | 
 [GitHub](https://github.com/Obaydawan)
 
-**Pakistan (UTC+5)** • Targeting EU Master's 2027
+**Pakistan (UTC+5)** • Open to EU Master's Programs 2027
 
 </p>
 
@@ -191,6 +215,6 @@ Data Engineering & Analytics Specialization
 </p>
 
 <p align="center">
-  <strong>Data Engineer • Systems Builder • Problem Solver</strong><br>
-  <sub>Building at scale | Optimizing ruthlessly | Creating impact</sub>
+  <strong>Data Analyst • Analytics Professional • Insights Driven</strong><br>
+  <sub>Turning data into decisions | Building dashboards that matter | Creating impact through insights</sub>
 </p>
