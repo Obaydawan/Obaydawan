@@ -184,7 +184,7 @@ Apache Spark   █████████████░░░░░░░ Prof
 └─────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────┐
-│ ✓ Google Cloud - Data Analytics Professional            │
+│ ✓ Google   - Data Analytics Professional            │
 │ ✓ DataCamp - Data Engineer Associate                    │
 │ ✓ Python for Data Analysis                              │
 │ ✓ Advanced SQL & Database Design                        │
