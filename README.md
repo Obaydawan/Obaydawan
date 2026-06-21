@@ -119,7 +119,7 @@ AND amount > 100;                 WHERE date_id >= 20240101
 
 <br/>
 
-**Programming Language**
+**Programming Languages**
 ```
 Python ████████████████████████░ Advanced
 SQL    ████████████████████████░ Advanced
