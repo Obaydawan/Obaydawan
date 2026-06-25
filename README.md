@@ -64,7 +64,7 @@ Pakistan (UTC+5)
 
 ```
 ┌──────────┐    ┌──────────────┐    ┌──────────────┐    ┌────────────┐
-│   Raw    │───▶│ Ingestion &  │───▶│ Validation & │───▶│ Analytics  │
+│   Raw    │───▶│ Ingestion &  │───▶│ Validation &│───▶│ Analytics  │
 │  Data    │    │ Transform    │    │ Warehouse    │    │ Dashboard  │
 └──────────┘    └──────────────┘    └──────────────┘    └────────────┘
                         │
