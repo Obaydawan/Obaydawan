@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Data Engineer | Data Analyst | Analytics Professional**
+**ata Engineer | Data Analyst | Analytics Professional**
 
 Designing scalable data pipelines and transforming raw data into strategic business intelligence.
 Specialized in ETL architecture, advanced SQL optimization, and predictive analytics.
