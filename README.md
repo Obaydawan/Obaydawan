@@ -162,6 +162,34 @@ Building dashboards that tell stories • Analyzing patterns that matter
 
 ---
 
+## 💡 **Data Analytics Wisdom**
+
+<p align="center">
+
+```
+"Data is the new oil, but insights are the new currency."
+                                    - Data World
+
+"Without data, you're just another person with an opinion."
+                                    - W. Edwards Deming
+
+"Data-driven insight is a competitive advantage."
+                                    - Jeff Bezos
+
+"In data we trust. Everything else must bring data."
+                                    - W. Edwards Deming
+
+"Data is only useful if you can tell a story with it."
+                                    - Unknown
+
+"The goal of data analysis is insight, not numbers."
+                                    - John Tukey
+```
+
+</p>
+
+---
+
 ## 🎓 **CREDENTIALS & EDUCATION**
 
 <div align="center">
@@ -226,14 +254,6 @@ Tell Story
 Drive Decisions
 ```
 
-</p>
-
----
-
-### ✍️ **Random Dev Quote**
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
