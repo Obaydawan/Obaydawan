@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## 📊 **Data AnalysY**
+## 📊 **Data Analyst**
 
 Transforming data into insights that drive business decisions  
 Building dashboards that tell stories • Analyzing patterns that matter
