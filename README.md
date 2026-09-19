@@ -8,7 +8,7 @@
 
 ## 🔧 **Data  Engineer**
 
-Building scalable data pipelines that process millions of records  
+Building scalable data pipelines that process millions of record
 Designing data architecture for production systems • ETL/ELT specialist
 
 </div>
