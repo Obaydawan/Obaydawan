@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## 🔧 **Data Engineer**
+## 🔧 **Data Egineer**
 
 Building scalable data pipelines that process millions of records,
 Designing data architecture for production systems • ETL/ELT specialist
